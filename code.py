@@ -36,3 +36,9 @@ def repeat():
     else:
         print("Invalid Input!!\nEnter a valid input!")
         repeat()
+
+percentage=[]
+num = int(input("Enter number of students:"))
+for i in range(num):
+    per=int(input(f"Enter percentage of the student {i+1}:"))
+    percentage.append(per)
