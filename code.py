@@ -42,3 +42,8 @@ num = int(input("Enter number of students:"))
 for i in range(num):
     per=int(input(f"Enter percentage of the student {i+1}:"))
     percentage.append(per)
+
+print("Which sort do you want to perform?")
+print("1. Selection sort")
+print("2. Bubble Sort")
+repeat()
