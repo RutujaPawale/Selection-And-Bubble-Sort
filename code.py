@@ -25,3 +25,14 @@ def topFiveMarks():
             if percentage[j]<percentage[j+1]:
                 percentage[j],percentage[j+1]=percentage[j+1],percentage[j]
     print(percentage[:6])
+
+def repeat():
+    num = int(input("Enter your choice"))
+    str(num).strip()
+    if num == 1:
+        selectionSort()
+    elif num == 2:
+        bubbleSort()
+    else:
+        print("Invalid Input!!\nEnter a valid input!")
+        repeat()
