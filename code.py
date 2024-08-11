@@ -17,3 +17,11 @@ def bubbleSort():
                 percentage[j],percentage[j+1]=percentage[j+1],percentage[j]
     print("After sorting:\n",percentage)
     topFiveMarks()
+
+def topFiveMarks():
+    print("Top 5 scores are : ")
+    for i in range(num-1,0,-1):
+        for j in range(i):
+            if percentage[j]<percentage[j+1]:
+                percentage[j],percentage[j+1]=percentage[j+1],percentage[j]
+    print(percentage[:6])
