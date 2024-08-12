@@ -31,3 +31,7 @@ After traversing, we found that 12 is the second lowest value in the array and i
 Third Pass:
 Now, for third place, where 25 is present again traverse the rest of the array and find the third least value present in the array.
 While traversing, 22 came out to be the third least value and it should appear at the third place in the array, thus swap 22 with element present at third position.
+
+Fourth pass:
+Similarly, for fourth position traverse the rest of the array and find the fourth least element in the array 
+As 25 is the 4th lowest value hence, it will place at the fourth position.
