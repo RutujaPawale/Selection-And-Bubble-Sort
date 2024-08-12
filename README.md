@@ -35,3 +35,7 @@ While traversing, 22 came out to be the third least value and it should appear a
 Fourth pass:
 Similarly, for fourth position traverse the rest of the array and find the fourth least element in the array 
 As 25 is the 4th lowest value hence, it will place at the fourth position.
+
+Fifth Pass:
+At last the largest value present in the array automatically get placed at the last position in the array
+The resulted array is the sorted array.
