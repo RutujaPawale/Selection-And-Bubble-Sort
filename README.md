@@ -27,3 +27,7 @@ Thus, replace 64 with 11. After one iteration 11, which happens to be the least 
 Second Pass:
 For the second position, where 25 is present, again traverse the rest of the array in a sequential manner.
 After traversing, we found that 12 is the second lowest value in the array and it should appear at the second place in the array, thus swap these values.
+
+Third Pass:
+Now, for third place, where 25 is present again traverse the rest of the array and find the third least value present in the array.
+While traversing, 22 came out to be the third least value and it should appear at the third place in the array, thus swap 22 with element present at third position.
