@@ -54,3 +54,9 @@ Step 1: We start with an unsorted array.
 
 Step 2: We look at the two first values. Does the lowest value come first? Yes, so we don't need to swap them.
 [7, 12, 9, 11, 3] 
+
+Step 3: Take one step forward and look at values 12 and 9. Does the lowest value come first? No.
+[7, 12, 9, 11, 3] 
+
+Step 4: So we need to swap them so that 9 comes first.
+[7, 9, 12, 11, 3] 
