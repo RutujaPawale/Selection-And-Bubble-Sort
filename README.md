@@ -66,3 +66,9 @@ Step 5: Taking one step forward, looking at 12 and 11.
 
 Step 6: We must swap so that 11 comes before 12.
 [7, 9, 11, 12, 3] 
+
+Step 7: Looking at 12 and 3, do we need to swap them? Yes.
+[7, 9, 11, 12, 3]
+
+Step 8: Swapping 12 and 3 so that 3 comes first.
+[7, 9, 11, 3, 12] 
