@@ -60,3 +60,9 @@ Step 3: Take one step forward and look at values 12 and 9. Does the lowest value
 
 Step 4: So we need to swap them so that 9 comes first.
 [7, 9, 12, 11, 3] 
+
+Step 5: Taking one step forward, looking at 12 and 11.
+[7, 9, 12, 11, 3]
+
+Step 6: We must swap so that 11 comes before 12.
+[7, 9, 11, 12, 3] 
