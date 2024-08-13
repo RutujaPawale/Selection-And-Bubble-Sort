@@ -48,3 +48,9 @@ The resulted array is the sorted array.
 
   Total no. of passes: n-1
   Total no. of comparisons: n*(n-1)/2
+
+Step 1: We start with an unsorted array.
+[7, 12, 9, 11, 3] 
+
+Step 2: We look at the two first values. Does the lowest value come first? Yes, so we don't need to swap them.
+[7, 12, 9, 11, 3] 
