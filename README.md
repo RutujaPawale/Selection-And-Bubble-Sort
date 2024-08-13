@@ -39,3 +39,12 @@ As 25 is the 4th lowest value hence, it will place at the fourth position.
 Fifth Pass:
 At last the largest value present in the array automatically get placed at the last position in the array
 The resulted array is the sorted array.
+
+# How does Bubble Sort Algorithm work?
+  In Bubble Sort algorithm, 
+  -- Traverse from left and compare adjacent elements and the higher one is placed at right side. 
+  -- In this way, the largest element is moved to the rightmost end at first. 
+  -- This process is then continued to find the second largest and place it and so on until the data is sorted.
+
+  Total no. of passes: n-1
+  Total no. of comparisons: n*(n-1)/2
