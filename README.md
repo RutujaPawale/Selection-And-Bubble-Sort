@@ -1,7 +1,7 @@
 Title: Implement Sorting algorithms
 
 Objectives:
-To understand and implement selection Sort
+To understand and implement Selection Sort
 To understand and implement Bubble Sort
 
 Problem Statement:
@@ -72,3 +72,6 @@ Step 7: Looking at 12 and 3, do we need to swap them? Yes.
 
 Step 8: Swapping 12 and 3 so that 3 comes first.
 [7, 9, 11, 3, 12] 
+
+# Conclusion
+Hence in this program we learnt how to implement selection Sort and Bubble Sort.
